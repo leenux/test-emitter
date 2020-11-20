@@ -1,0 +1,10 @@
+# github.com/eclipse/paho.mqtt.golang v1.2.0
+github.com/eclipse/paho.mqtt.golang
+github.com/eclipse/paho.mqtt.golang/packets
+# github.com/emitter-io/go/v2 v2.0.9
+## explicit
+github.com/emitter-io/go/v2
+# golang.org/x/net v0.0.0-20200513185701-a91f0712d120
+golang.org/x/net/internal/socks
+golang.org/x/net/proxy
+golang.org/x/net/websocket
